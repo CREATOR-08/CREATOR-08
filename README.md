@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Himanshu
+
+🎓CSE Student @ IIIT Kalyani
+
+💻 Skills
+- Java
+- React
+- Node.js
+- Express.js
+- Python
+- AI/ML
+
+📚 Currently Learning
+- DSA
+- AI/ML
+- GenAI
+
+🎯 Goal
+Software Engineer | AI Engineer
+
+⚡ Solving DSA and building projects
